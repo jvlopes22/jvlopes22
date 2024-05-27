@@ -18,4 +18,4 @@ Connect with Me 🙋‍♂️
 
 LinkedIn: https://www.linkedin.com/in/joão-vitor-lopes/
 
-Feel free to reach out via email: jvlopesgit@gmail.com
+Feel free to reach out via email: jvlopesdev@gmail.com
