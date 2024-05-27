@@ -1,7 +1,7 @@
 Hi there! 👋 
 
 I'm João Vitor Lopes, a passionate programmer currently learning the ropes at Rocketseat and expanding my knowledge in Information Systems at college, UniAcademia. 
-My goal is to become a skilled web developer, always striving to improve through learning and gaining hands-on experience.
+My goal is to become a skilled developer, always striving to improve through learning and gaining hands-on experience.
 
 My Public Projects 💻
 
