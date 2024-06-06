@@ -16,7 +16,7 @@ HTML and CSS:
  - Flutuar: It simulates a platform that sells travel packages. The idea was to make a simple project to practice HTML and CSS.
    https://github.com/jvlopes22/flutuar
    
- - Móveis Customizados: Similar to "Flutuar", it was a project created to practice HTML and CSS. It simulates a platform that sells furniture.
+ - Móveis Customizados: Similar to "Flutuar", it was created to practice HTML and CSS. It simulates a platform that sells furniture.
    https://github.com/jvlopes22/moveis-customizados
    
 Connect with Me 🙋‍♂️
