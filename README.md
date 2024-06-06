@@ -5,10 +5,9 @@ My goal is to become a skilled developer, always striving to improve through lea
 
 My Public Projects 💻
 
-HTML and CSS:
+- HTML and CSS:
 
 1- Fotoblog: This project, developed using HTML and CSS, features some animations and a great type of design. It simulates a photo gallery showcasing images saved by the user.
-   
    https://github.com/jvlopes22/fotoblog
 
 2- Móveis Customizados: A project created to practice HTML and CSS. It simulates a platform that sells furniture.
