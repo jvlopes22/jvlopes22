@@ -7,7 +7,7 @@ My Public Projects 💻
 
 HTML and CSS:
 
- - Fotoblog: This project features good animations and a great type of design. It simulates a photo gallery with images saved by the user.
+ - Fotoblog: This project features a great type of design and animations. It simulates a photo gallery with images saved by the user.
    https://github.com/jvlopes22/fotoblog
 
  - treine.me: A project that shows a basic landing page that simulates a physical exercise training assistance service.
