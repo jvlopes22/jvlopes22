@@ -5,19 +5,19 @@ My goal is to become a skilled developer, always striving to improve through lea
 
 My Public Projects 💻
 
-- HTML and CSS:
+HTML and CSS:
 
-1- Fotoblog: This project, developed using HTML and CSS, features some animations and a great type of design. It simulates a photo gallery showcasing images saved by the user.
+1- Fotoblog: This project features good animations and a great type of design. It simulates a photo gallery with images saved by the user.
    https://github.com/jvlopes22/fotoblog
 
-2- Móveis Customizados: A project created to practice HTML and CSS. It simulates a platform that sells furniture.
-   https://github.com/jvlopes22/moveis-customizados
-
-3- Flutuar: It's similar to "Móveis Customizados". The idea is to also practice HTML and CSS. It simulates a platform that sells travel packages.
-   https://github.com/jvlopes22/flutuar
-
-4- treine.me: A simple landing page created with HTML and CSS that simulates a physical exercise training assistance service.
+2- treine.me: A project that shows a basic landing page that simulates a physical exercise training assistance service.
    https://github.com/jvlopes22/treine.me
+
+3- Flutuar: It simulates a platform that sells travel packages. The idea was to make a simple project to practice HTML and CSS.
+   https://github.com/jvlopes22/flutuar
+   
+4- Móveis Customizados: Similar to "Flutuar", it was a project created to practice HTML and CSS. It simulates a platform that sells furniture.
+   https://github.com/jvlopes22/moveis-customizados
 
 Connect with Me 🙋‍♂️
 
